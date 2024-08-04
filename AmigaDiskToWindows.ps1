@@ -1,7 +1,6 @@
 # Description:
 # This PowerShell script provides a GUI for copying Amiga files from an Amiga disk to a Windows machine using the Greaseweazle tool. 
 
-# Author:
 # Script created by Claude Peters
 # https://github.com/Morgoth01/Amiga-Disk-Utility-for-Windows
 
