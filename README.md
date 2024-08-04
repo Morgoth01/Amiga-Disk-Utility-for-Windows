@@ -57,6 +57,7 @@ Click "Run" to write the ADF file to the Amiga disk.
 ## Requirements
 Greaseweazle Hardware: Make sure you have the Greaseweazle device properly connected to your Amiga disk drive and Windows PC.
 Greaseweazle Software: Ensure that is installed and accessible from the paths specified in the utility.
+For more information: https://github.com/keirf/greaseweazle
 
 ## Contribution
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request. Whether you want to add new features, improve the interface, or optimize the code, your contributions are highly appreciated.
