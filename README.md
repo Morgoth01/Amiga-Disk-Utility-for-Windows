@@ -1,6 +1,6 @@
 # Amiga to Windows / Windows to Amiga Disk Utility
 ## Introduction
-This repository contains a simple GUI application designed to facilitate disk operations between Amiga and Windows systems. Using the Greaseweazle tool, this utility allows users to easily copy files from an Amiga disk to Windows and vice versa. The application provides an intuitive graphical interface, making it accessible even to users with minimal technical expertise.
+This repository contains a simple GUI application designed to facilitate disk operations between Amiga and Windows systems. Using the Greaseweazle tool, this utility allows users to easily copy files from an Amiga disk to Windows and vice versa. The application provides a graphical interface, making it accessible even to users with minimal technical expertise.
 
 ## Features
 Amiga to Windows Disk Copy: Easily transfer files from an Amiga floppy disk to your Windows machine.
