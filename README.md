@@ -61,3 +61,8 @@ For more information: https://github.com/keirf/greaseweazle
 
 ## Contribution
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request. Whether you want to add new features, improve the interface, or optimize the code, your contributions are highly appreciated.
+
+## Disclaimer
+Please note that using the provided executable files (EXE files) is at your own risk. While I have tested the application thoroughly, I cannot guarantee that it will work flawlessly on every system or configuration. By downloading and using these files, you acknowledge that the author is not responsible for any damage or data loss that may occur.
+
+Use of this software is entirely at your own discretion and risk.
