@@ -1,4 +1,6 @@
-# Amiga to Windows / Windows to Amiga Disk Utility
+# Amiga Disk Utility for Windows
+![gui](https://github.com/user-attachments/assets/23613df3-8e8c-4de1-b161-5e6905938900)
+
 ## Introduction
 This repository contains a simple GUI application designed to facilitate disk operations between Amiga and Windows systems. Using the Greaseweazle tool, this utility allows users to easily copy files from an Amiga disk to Windows and vice versa. The application provides a graphical interface, making it accessible even to users with minimal technical expertise.
 
@@ -24,6 +26,9 @@ Save Directory:
 Select the directory where the ADF file should be saved or the directory containing the ADF file to be written to an Amiga disk.
 
 ## How to run
+**Download the latest exe file:**
+[Latest Release](https://github.com/Morgoth01/Amiga-Disk-Utility-for-Windows/releases/tag/v1.1)
+
 To use this utility, follow these steps:
 
 Download the EXE File:
@@ -37,22 +42,16 @@ Use the GUI:
 The GUI will open, allowing you to perform disk operations by filling out the necessary fields and clicking the “Run” button.
 
 ### Amiga to Windows
-Select the gw.exe location
-
-Enter the ADF file name
-
-Enter the disk number (optional)
-
-Choose the save directory
-
-Click "Run" to transfer the contents from the Amiga disk to your Windows machine.
++ Select the gw.exe location
++ Enter the ADF file name
++ Enter the disk number (optional)
++ Choose the save directory
++ Click "Run" to transfer the contents from the Amiga disk to your Windows machine.
 
 ### Windows to Amiga
-Select the gw.exe location
-
-Choose the ADF file.
-
-Click "Run" to write the ADF file to the Amiga disk.
++ Select the gw.exe location
++ Choose the ADF file.
++ Click "Run" to write the ADF file to the Amiga disk.
 
 ## Requirements
 Greaseweazle Hardware: Make sure you have the Greaseweazle device properly connected to your Amiga disk drive and Windows PC.
